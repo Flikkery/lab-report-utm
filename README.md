@@ -7,10 +7,10 @@
 Положи папку в каталог скиллов Claude Code:
 
 ```bash
-git clone https://github.com/<user>/lab-report-utm "$HOME/.claude/skills/lab-report-utm"
+git clone https://github.com/Flikkery/lab-report-utm "$HOME/.claude/skills/lab-report-utm"
 ```
 
-(Windows PowerShell: `git clone https://github.com/<user>/lab-report-utm "$env:USERPROFILE\.claude\skills\lab-report-utm"`)
+(Windows PowerShell: `git clone https://github.com/Flikkery/lab-report-utm "$env:USERPROFILE\.claude\skills\lab-report-utm"`)
 
 ## Настройка
 
