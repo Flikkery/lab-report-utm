@@ -1,0 +1,13 @@
+{
+  "_comment": "Постоянные данные титульного листа. ЗАМЕНИ на свои: ФИО (ru/ro/en) и группу. Всё остальное (дисциплина, тема, номер работы, преподаватель, кафедра) берётся из задания.",
+  "student": {
+    "ru": "Фамилия Имя",
+    "ro": "Nume Prenume",
+    "en": "Name Surname"
+  },
+  "group": "XX-000",
+  "ministry": "MINISTERUL EDUCAȚIEI ȘI CERCETĂRII AL REPUBLICII MOLDOVA",
+  "university": "UNIVERSITATEA TEHNICĂ A MOLDOVEI",
+  "faculty": "Facultatea Calculatoare, Informatică şi Microelectronică",
+  "city": "CHIȘINĂU"
+}
